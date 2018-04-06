@@ -1339,6 +1339,18 @@
           "lib/UAP10/Plugin.Settings.dll": {}
         }
       },
+      "Xamarin.Essentials/0.0.1.47-preview": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.6"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "Xamarin.Forms/2.5.0.280555": {
         "type": "package",
         "compile": {
@@ -1439,6 +1451,7 @@
           "Xam.Plugin.Connectivity": "3.1.1",
           "Xam.Plugin.ExternalMaps": "4.0.1",
           "Xam.Plugins.Messaging": "4.0.0",
+          "Xamarin.Essentials": "0.0.1.47-preview",
           "Xamarin.Forms": "2.5.0.280555",
           "Xamarin.Forms.Maps": "2.5.0.280555",
           "ZXing.Net.Mobile": "2.3.2",
@@ -3139,6 +3152,18 @@
           "lib/UAP10/Plugin.Settings.dll": {}
         }
       },
+      "Xamarin.Essentials/0.0.1.47-preview": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.6"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "Xamarin.Forms/2.5.0.280555": {
         "type": "package",
         "compile": {
@@ -3239,6 +3264,7 @@
           "Xam.Plugin.Connectivity": "3.1.1",
           "Xam.Plugin.ExternalMaps": "4.0.1",
           "Xam.Plugins.Messaging": "4.0.0",
+          "Xamarin.Essentials": "0.0.1.47-preview",
           "Xamarin.Forms": "2.5.0.280555",
           "Xamarin.Forms.Maps": "2.5.0.280555",
           "ZXing.Net.Mobile": "2.3.2",
@@ -4995,6 +5021,18 @@
           "lib/UAP10/Plugin.Settings.dll": {}
         }
       },
+      "Xamarin.Essentials/0.0.1.47-preview": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.6"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "Xamarin.Forms/2.5.0.280555": {
         "type": "package",
         "compile": {
@@ -5095,6 +5133,7 @@
           "Xam.Plugin.Connectivity": "3.1.1",
           "Xam.Plugin.ExternalMaps": "4.0.1",
           "Xam.Plugins.Messaging": "4.0.0",
+          "Xamarin.Essentials": "0.0.1.47-preview",
           "Xamarin.Forms": "2.5.0.280555",
           "Xamarin.Forms.Maps": "2.5.0.280555",
           "ZXing.Net.Mobile": "2.3.2",
@@ -6795,6 +6834,18 @@
           "lib/UAP10/Plugin.Settings.dll": {}
         }
       },
+      "Xamarin.Essentials/0.0.1.47-preview": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.6"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "Xamarin.Forms/2.5.0.280555": {
         "type": "package",
         "compile": {
@@ -6895,6 +6946,7 @@
           "Xam.Plugin.Connectivity": "3.1.1",
           "Xam.Plugin.ExternalMaps": "4.0.1",
           "Xam.Plugins.Messaging": "4.0.0",
+          "Xamarin.Essentials": "0.0.1.47-preview",
           "Xamarin.Forms": "2.5.0.280555",
           "Xamarin.Forms.Maps": "2.5.0.280555",
           "ZXing.Net.Mobile": "2.3.2",
@@ -8651,6 +8703,18 @@
           "lib/UAP10/Plugin.Settings.dll": {}
         }
       },
+      "Xamarin.Essentials/0.0.1.47-preview": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.6"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "Xamarin.Forms/2.5.0.280555": {
         "type": "package",
         "compile": {
@@ -8751,6 +8815,7 @@
           "Xam.Plugin.Connectivity": "3.1.1",
           "Xam.Plugin.ExternalMaps": "4.0.1",
           "Xam.Plugins.Messaging": "4.0.0",
+          "Xamarin.Essentials": "0.0.1.47-preview",
           "Xamarin.Forms": "2.5.0.280555",
           "Xamarin.Forms.Maps": "2.5.0.280555",
           "ZXing.Net.Mobile": "2.3.2",
@@ -10451,6 +10516,18 @@
           "lib/UAP10/Plugin.Settings.dll": {}
         }
       },
+      "Xamarin.Essentials/0.0.1.47-preview": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.6"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "Xamarin.Forms/2.5.0.280555": {
         "type": "package",
         "compile": {
@@ -10551,6 +10628,7 @@
           "Xam.Plugin.Connectivity": "3.1.1",
           "Xam.Plugin.ExternalMaps": "4.0.1",
           "Xam.Plugins.Messaging": "4.0.0",
+          "Xamarin.Essentials": "0.0.1.47-preview",
           "Xamarin.Forms": "2.5.0.280555",
           "Xamarin.Forms.Maps": "2.5.0.280555",
           "ZXing.Net.Mobile": "2.3.2",
@@ -12307,6 +12385,18 @@
           "lib/UAP10/Plugin.Settings.dll": {}
         }
       },
+      "Xamarin.Essentials/0.0.1.47-preview": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.6"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "Xamarin.Forms/2.5.0.280555": {
         "type": "package",
         "compile": {
@@ -12407,6 +12497,7 @@
           "Xam.Plugin.Connectivity": "3.1.1",
           "Xam.Plugin.ExternalMaps": "4.0.1",
           "Xam.Plugins.Messaging": "4.0.0",
+          "Xamarin.Essentials": "0.0.1.47-preview",
           "Xamarin.Forms": "2.5.0.280555",
           "Xamarin.Forms.Maps": "2.5.0.280555",
           "ZXing.Net.Mobile": "2.3.2",
@@ -18811,6 +18902,26 @@
         "xam.plugins.settings.nuspec"
       ]
     },
+    "Xamarin.Essentials/0.0.1.47-preview": {
+      "sha512": "ePwP7fTTTX3wPqx3aa/bWjfpc0PMVGnXtN7+4gDC1loP4pXWg8o5HKfyISZnr+KV2a10vjWsae7sVbT/7Z+B8A==",
+      "type": "package",
+      "path": "xamarin.essentials/0.0.1.47-preview",
+      "files": [
+        "lib/monoandroid71/Xamarin.Essentials.dll",
+        "lib/monoandroid71/Xamarin.Essentials.xml",
+        "lib/netstandard1.0/Xamarin.Essentials.dll",
+        "lib/netstandard1.0/Xamarin.Essentials.xml",
+        "lib/netstandard2.0/Xamarin.Essentials.dll",
+        "lib/netstandard2.0/Xamarin.Essentials.xml",
+        "lib/uap10.0.16299/Xamarin.Essentials.dll",
+        "lib/uap10.0.16299/Xamarin.Essentials.pri",
+        "lib/uap10.0.16299/Xamarin.Essentials.xml",
+        "lib/xamarinios10/Xamarin.Essentials.dll",
+        "lib/xamarinios10/Xamarin.Essentials.xml",
+        "xamarin.essentials.0.0.1.47-preview.nupkg.sha512",
+        "xamarin.essentials.nuspec"
+      ]
+    },
     "Xamarin.Forms/2.5.0.280555": {
       "sha512": "JVmozDJQNKEVhN4NG5EiG2IBua0+xK9b+t1L/VUN9HeIXkc8BubZM6UnnE1CftlGt0U2+JGTQSL79uxpx0KCpQ==",
       "type": "package",
@@ -19194,50 +19305,51 @@
     "UAP,Version=v10.0.16299": []
   },
   "packageFolders": {
-    "C:\\Users\\jamont\\.nuget\\packages\\": {},
+    "C:\\Users\\pvc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\app-evolve\\src\\Conference.UWP\\Conference.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.UWP\\Conference.UWP.csproj",
       "projectName": "Conference.UWP",
-      "projectPath": "C:\\GitHub\\app-evolve\\src\\Conference.UWP\\Conference.UWP.csproj",
-      "projectJsonPath": "C:\\GitHub\\app-evolve\\src\\Conference.UWP\\project.json",
-      "packagesPath": "C:\\Users\\jamont\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\app-evolve\\src\\Conference.UWP\\obj\\",
+      "projectPath": "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.UWP\\Conference.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.UWP\\project.json",
+      "packagesPath": "C:\\Users\\pvc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jamont\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pvc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/xamarin-caboodle/api/v3/index.json": {}
       },
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\GitHub\\app-evolve\\src\\Conference.Clients.Portable\\Conference.Clients.Portable.csproj": {
-              "projectPath": "C:\\GitHub\\app-evolve\\src\\Conference.Clients.Portable\\Conference.Clients.Portable.csproj"
+            "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.Clients.Portable\\Conference.Clients.Portable.csproj": {
+              "projectPath": "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.Clients.Portable\\Conference.Clients.Portable.csproj"
             },
-            "C:\\GitHub\\app-evolve\\src\\Conference.Clients.UI\\Conference.Clients.UI.csproj": {
-              "projectPath": "C:\\GitHub\\app-evolve\\src\\Conference.Clients.UI\\Conference.Clients.UI.csproj"
+            "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.Clients.UI\\Conference.Clients.UI.csproj": {
+              "projectPath": "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.Clients.UI\\Conference.Clients.UI.csproj"
             },
-            "C:\\GitHub\\app-evolve\\src\\Conference.DataStore.Abstractions\\Conference.DataStore.Abstractions.csproj": {
-              "projectPath": "C:\\GitHub\\app-evolve\\src\\Conference.DataStore.Abstractions\\Conference.DataStore.Abstractions.csproj"
+            "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.DataStore.Abstractions\\Conference.DataStore.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.DataStore.Abstractions\\Conference.DataStore.Abstractions.csproj"
             },
-            "C:\\GitHub\\app-evolve\\src\\Conference.DataStore.Azure\\Conference.DataStore.Azure.csproj": {
-              "projectPath": "C:\\GitHub\\app-evolve\\src\\Conference.DataStore.Azure\\Conference.DataStore.Azure.csproj"
+            "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.DataStore.Azure\\Conference.DataStore.Azure.csproj": {
+              "projectPath": "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.DataStore.Azure\\Conference.DataStore.Azure.csproj"
             },
-            "C:\\GitHub\\app-evolve\\src\\Conference.DataStore.Mock\\Conference.DataStore.Mock.csproj": {
-              "projectPath": "C:\\GitHub\\app-evolve\\src\\Conference.DataStore.Mock\\Conference.DataStore.Mock.csproj"
+            "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.DataStore.Mock\\Conference.DataStore.Mock.csproj": {
+              "projectPath": "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.DataStore.Mock\\Conference.DataStore.Mock.csproj"
             },
-            "C:\\GitHub\\app-evolve\\src\\Conference.Utils\\Conference.Utils.csproj": {
-              "projectPath": "C:\\GitHub\\app-evolve\\src\\Conference.Utils\\Conference.Utils.csproj"
+            "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.Utils\\Conference.Utils.csproj": {
+              "projectPath": "C:\\Users\\pvc\\Source\\Repos\\app-conference\\src\\Conference.Utils\\Conference.Utils.csproj"
             }
           }
         }

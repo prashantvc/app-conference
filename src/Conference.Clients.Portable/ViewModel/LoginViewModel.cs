@@ -2,9 +2,10 @@
 using Xamarin.Forms;
 using System.Windows.Input;
 using System.Threading.Tasks;
-using Plugin.Share;
+//using Plugin.Share;
 using FormsToolkit;
-using Plugin.Share.Abstractions;
+using Xamarin.Essentials;
+//using Plugin.Share.Abstractions;
 
 namespace Conference.Clients.Portable
 {
@@ -152,20 +153,8 @@ namespace Conference.Clients.Portable
         async Task ExecuteSignupAsync()
         {
             Logger.Track(ConferenceLoggerKeys.Signup);
-            await CrossShare.Current.OpenBrowser("https://auth.xamarin.com/account/register", 
-                new BrowserOptions
-                {
-                    ChromeShowTitle = true,
-                    ChromeToolbarColor = new ShareColor
-                        {
-                            A=255,
-                            R=118,
-                            G=53,
-                            B=235
-                        },
-                    UseSafariReaderMode = false,
-                    UseSafariWebViewController = true
-                });
+
+            await Browser.OpenAsync("https://auth.xamarin.com/account/register", BrowserLaunchType.SystemPreferred);
         }
 
         ICommand  cancelCommand;
